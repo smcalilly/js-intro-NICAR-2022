@@ -35,14 +35,15 @@ We can demonstrate how to run code in your browser. Through this demonstration, 
 
 ### Strings, variables, and functions
 #### Open up index.html
+(TODO: clarify this)
 Find the index.html in the file explorer. You should be able to double click to open that file in your web browser.
 
-When creating websites on the front-end, you'll spend a lot of time in what's called your browser's "Developer Tools" console.
-
 #### Right click on your index.html page and click "inspect"
+When creating websites on the front-end, you'll spend a lot of time in what's called your browser's "Developer Tools" console.
 
 You should see a console like what I have.
 
+See:
 - inspector you can see the HTML
 - console you can run javascript code and see errors
 
@@ -55,7 +56,7 @@ console.log('Hello NICAR!')
 ```
 
 #### String
-<!-- TODO: data types or data structures or types? -->
+(TODO: decide on name: data types or data structures or types?)
 The message `'Hello NICAR!'` is what's known as a **string**. A string is one of many datatypes in JavaScript. A string can be any character you type on your keyboard. It's wrapped in single or double quotes. (I prefer single quotes because it cuts down visual noise.)
 
 A string is known as a data structure built into javascript, sometimes known as a type. Data structures are special parts of JavaScript (and other programming languages) and used to build programs. The different data structures have different powers. We'll learn some more in this lesson, but there are a lot of different JS data structures.
@@ -67,7 +68,7 @@ A string is known as a data structure built into javascript, sometimes known as 
 We'll go deeper into functions in a bit, and make our own.
 
 #### Variable
-We're gonna keep using the console to see the results of our code, but we're gonna write our code in a script that runs on the page. In your (TODO: name this folder), open the `console.js`
+We're gonna keep using the console to see the results of our code, but we're gonna write our code in a script that runs on the page. In your (TODO: name this folder), open the `console.js`. (TODO: finish this instruction.) 
 
 You can set the string to what's called a **variable**, and then pass that variable into the `console.log`:
 ```javascript
@@ -214,10 +215,8 @@ petNames.forEach((name) => {
 })
 ```
 
-(TODO: reword? necessary to explain the anonymous function?)
+(TODO: reword? necessary to explain the anonymous function? might be a bit confusing at this point in time)
 In english, this says: for each item in the `petName` or `petAge` array, pass the item into an anonymous function (that's the part with the => {}) and console.log it. 
-
-
 
 #### Objects
 If you notice in the above example, we have `petNames` and `petAges` as separate variables. It would be easier to work with, and make more sense from a code perspective, if we had these values contained with a single entity. We can, using the **object** type. 
@@ -233,7 +232,7 @@ const pet1 = {
 
 You can access the `name` key and log it:
 ```javascript
-// access sylvia's name with the "name" key
+// access pet1's name with the "name" key
 console.log(pet1.name)
 ```
 
@@ -286,27 +285,6 @@ function petSaysHello(pet) {
     console.log(greeting)
 }
 
-const pets = [
-    {
-        'name': 'Sylvia',
-        'species': 'cat',
-        'age': 7,
-        'greeting': 'Meow'
-    },
-    {
-        'name': 'Okie Dokie',
-        'species': 'dog',
-        'age': 3,
-        'greeting': 'Woof'
-    },
-    {
-        'name': 'Lil',
-        'species': 'cat',
-        'age': 11,
-        'greeting': 'Meow'
-    }
-]
-
 pets.forEach((pet) => {
     // this passes the pet object as an argument into our function
     petSaysHello(pet)
@@ -314,7 +292,7 @@ pets.forEach((pet) => {
 ```
 
 ## Writing to the DOM
-
+(TODO: improve this intro to the DOM, fact check its definition)
 The DOM is short for the Document Object Model. It represents the HTML on your webpage. Using javascript, you can do things with the DOM, like add your own HTML, or restyle, or listen to button clicks, etc.
 
 In our `index.html` file, we have a `<div>` element with an id of `text`. You use this id to grab the div element and write some HTML instead of the div:
@@ -323,10 +301,11 @@ const textDiv = document.getElementById('text')
 textDiv.innerHTML = "hey y'all"
 ```
 
+(TODO: add all these steps)
 - add button to html
 - encapsulate the "heyyall" in a function
 - reference heyYall function in the button onClick
-- demonstrate count
+- demonstrate count, introduce the idea of scope and how the script.js runs when the page loads.
 - attach click event callback that calls that function
 
 these are called webapis: (TODO: fact check the real name)
@@ -399,3 +378,6 @@ function listWriters() {
 ```
 
 inspect the html in the dev tools.
+
+## Summary
+(TODO)
