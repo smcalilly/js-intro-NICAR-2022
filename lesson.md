@@ -1,4 +1,4 @@
-# JavaScript Intro - NICAR 2020
+# JavaScript Intro - NICAR 2022
 
 This is an outline for teaching an introduction to JavaScript at NICAR 2022.
 
