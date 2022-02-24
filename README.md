@@ -1,10 +1,11 @@
 # JavaScript Intro - NICAR 2022
+This is an introduction to JavaScript for NICAR 2022. This class assumes you know the basics of HTML and CSS.
 
 ## Folders in this repo
 - `lesson`
   - This will be the code you edit. I've already created a couple of empty script files for you, as well as a skeleton index.html page.
 - `demo`
-  - The end result of the code if you get stuck or want to just peruse or return to at a later time.
+  - The end result of the code if you get stuck or want to peruse or return to at a later time.
 
 ## Lesson plan
 I'm following along with the outline I wrote in [lesson.md](lesson.md). You can return here after this session, but it might be confusing if you try to read along while we do live coding.
