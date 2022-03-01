@@ -2,14 +2,11 @@
 This is an introduction to JavaScript for NICAR 2022. This class assumes you know the basics of HTML and CSS. [Everything in this repo is available publicly on my personal GitHub](https://github.com/smcalilly/js-intro-NICAR-2022).
 
 ## Folders in this repo
-- `lesson`
-  - This will be the code you edit. I've already created a couple of empty script files for you, as well as a skeleton index.html page.
-- `demo`
-  - The end result of the code if you get stuck or want to peruse or return to at a later time.
+- `lesson`: This will be the code you edit. I've already created a couple of empty script files for you, as well as some skeleton HTML.
+- `demo`: The end result of the code if you get stuck or want to peruse or return to at a later time.
 
 ## Lesson
 I'm following along with the outline I wrote in [lesson.md](lesson.md). You can return here after this session, but it might be confusing if you try to read along while we do live coding.
-
 
 ## Exercises
 There are also some exercises you can do after the lesson at [the end of the lesson.md file, linked here](lesson.md#Exercises). 
@@ -21,8 +18,7 @@ If you want to work on the exercises later — when you don't have the same deve
 
 They all work more or less the same, and since JavaScript runs in the browser, you'll be able to edit your code files in your text editor and refresh the web page to see any changes/run the code.
 
-
-If you get stuck, [StackOverflow](https://stackoverflow.com/) is a good place to search. You'll get the most mileage if you learn how to search specific errors that are logged in your console. If you get hopelessly stuck, feel free to [email me](mailto:smcalilly@gmail.com) if you have any questions or need any clarification about this material.
+If you get stuck, [StackOverflow](https://stackoverflow.com/) is a good place to search for help. You'll get the most mileage if you learn how to search specific errors that are logged in your console, or can craft a good "how to do xyz javascript". If you get hopelessly stuck, feel free to [email me](mailto:smcalilly@gmail.com) if you have any questions or need any clarification about this material.
 
 ## Resources
 Here's some places for continued learning:
