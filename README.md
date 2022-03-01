@@ -1,5 +1,5 @@
 # JavaScript Intro - NICAR 2022
-This is an introduction to JavaScript for NICAR 2022. This class assumes you know the basics of HTML and CSS.
+This is an introduction to JavaScript for NICAR 2022. This class assumes you know the basics of HTML and CSS. [Everything in this repo is available publicly on my personal GitHub](https://github.com/smcalilly/js-intro-NICAR-2022).
 
 ## Folders in this repo
 - `lesson`
@@ -7,8 +7,22 @@ This is an introduction to JavaScript for NICAR 2022. This class assumes you kno
 - `demo`
   - The end result of the code if you get stuck or want to peruse or return to at a later time.
 
-## Lesson plan
+## Lesson
 I'm following along with the outline I wrote in [lesson.md](lesson.md). You can return here after this session, but it might be confusing if you try to read along while we do live coding.
+
+
+## Exercises
+There are also some exercises you can do after the lesson at [the end of the lesson.md file, linked here](lesson.md#Exercises). 
+
+If you want to work on the exercises later — when you don't have the same development environment as in-class — you should be able to download any of these text editors and pick up where you left off without any problems:
+- [VS Code](https://code.visualstudio.com/download)
+- [Sublime](https://www.sublimetext.com/3)
+- [Atom](https://flight-manual.atom.io/getting-started/sections/installing-atom/)
+
+They all work more or less the same, and since JavaScript runs in the browser, you'll be able to edit your code files in your text editor and refresh the web page to see any changes/run the code.
+
+
+If you get stuck, [StackOverflow](https://stackoverflow.com/) is a good place to search. You'll get the most mileage if you learn how to search specific errors that are logged in your console. If you get hopelessly stuck, feel free to [email me](mailto:smcalilly@gmail.com) if you have any questions or need any clarification about this material.
 
 ## Resources
 Here's some places for continued learning:
@@ -19,7 +33,3 @@ Here's some places for continued learning:
 - a good place to continue learning HTML and CSS: https://htmlandcssguidebook.com/index.html
 - [HTML and accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
 - [introduction to Web APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction)
-
-If you get stuck, [StackOverflow](https://stackoverflow.com/) is a good place to search. You'll get the most mileage if you learn how to search specific errors that are logged in your console.
-
-If you return to this material after this NICAR session, feel free to [email me](mail-to:smcalilly@gmail.com) if you have any questions or need any clarification about this material.
