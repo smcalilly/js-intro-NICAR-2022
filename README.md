@@ -12,11 +12,13 @@ I'm following along with the outline I wrote in [lesson.md](lesson.md). You can 
 
 ## Resources
 Here's some places for continued learning:
-- [Eloquent Javascript book](https://eloquentjavascript.net/) - free
-- [javascript.info](https://javascript.info/) - free
-- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) - free
+- [Eloquent Javascript book](https://eloquentjavascript.net/)
+- [javascript.info](https://javascript.info/)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - [Learn Enough JavaScript](https://www.learnenough.com/javascript-tutorial) - paid
 - a good place to continue learning HTML and CSS: https://htmlandcssguidebook.com/index.html
+- [HTML and accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
+- [introduction to Web APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction)
 
 If you get stuck, [StackOverflow](https://stackoverflow.com/) is a good place to search. You'll get the most mileage if you learn how to search specific errors that are logged in your console.
 
