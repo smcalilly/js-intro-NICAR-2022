@@ -35,7 +35,6 @@ We can demonstrate how to run code in your browser. Through this demonstration, 
 
 ### Types 1: Strings, variables, and functions
 #### Open up index.html
-(TODO: clarify this)
 Find the `lesson/index.html` in your text editor. You can open it in your browser like this:
 - VS Code and Atom: Right click + copy path. Paste into your text editor.
 - Sublime: Right click + show in finder. Double click the file in your finder.
