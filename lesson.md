@@ -340,7 +340,7 @@ function heyYall() {
 }
 ```
 
-Notice how it continues to add the text. You can inspect the html in the dev tools and see what happens. If we have time at the end, I can show you some ways to clean that up. I've also included an exercise with that task in case we don't have time and you want to try on your own. (TODO: link to this)
+Notice how it continues to add the text. You can inspect the html in the dev tools and see what happens. If we have time at the end, I can show you some ways to clean that up. I've also [included an exercise with that task](#Exercises) in case we don't have time and you want to try on your own.
 
 ### Rendering an array of objects
 Building on the array and object types we learned earlier, we're gonna use this new DOM power to take an array of objects and render each object. 
@@ -410,7 +410,7 @@ const bio = {
 }
 ```
 
-## DOM
+### DOM
 - Add a key/value pair to each writer in the georgiaWriters object. Add that value to your string so it shows up on the webpage.
 - Add a new button that removes the text inside the `<div id='text'>`, after the text has been rendered. The button will need an id which you'll use to add an event listener.
 - Instead of a list, render the elements in a table. this one might be a little harder just because of the structure of a table. Here's [a good doc about how to structure a table's html](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table), but your table's html might look like this:
