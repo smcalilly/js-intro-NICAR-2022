@@ -28,4 +28,4 @@ Here's some places for continued learning:
 - [Learn Enough JavaScript](https://www.learnenough.com/javascript-tutorial) - paid
 - a good place to continue learning HTML and CSS: https://htmlandcssguidebook.com/index.html
 - [HTML and accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
-- [introduction to Web APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction)
+- [Introduction to Web APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction)

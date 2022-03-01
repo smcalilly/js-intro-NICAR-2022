@@ -405,7 +405,7 @@ We just learned:
 Whew! Okay, that was a lot. We learned about JavaScript strings, booleans, conditionals, arrays, objects, and functions. We used those types to manipulate the HTML page, aka the DOM, by using some of the built-in functions that let us create interactive web page.
 
 
-## Exercises:
+## Exercises
 ### Types
 - Create an array of numbers, then write a loop that does a math operation on each item in the array. `console.log` the result of the math operation.
 - Create an object where one of the values contains an array, then print out each item in the array. Your object might look like:
