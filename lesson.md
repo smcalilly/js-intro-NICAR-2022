@@ -15,11 +15,6 @@ This is an outline for teaching an introduction to JavaScript at NICAR 2022.
   - event listener for button click
   - render to the DOM based on a button click
   - loop through an array of objects and render them
-- Continuing education
-  - style and syntax
-  - weird stuff about javascript (time permitting)
-  - resources
-  - a bit about frameworks
 
 
 ## What is JavaScript and why is it important?
