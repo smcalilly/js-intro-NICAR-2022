@@ -21,7 +21,7 @@ They all work more or less the same, and since JavaScript runs in the browser, y
 If you get stuck, [StackOverflow](https://stackoverflow.com/) is a good place to search for help. You'll get the most mileage if you learn how to search specific errors that are logged in your console, or can craft a good "how to do xyz javascript". If you get hopelessly stuck, feel free to [email me](mailto:smcalilly@gmail.com) if you have any questions or need any clarification about this material.
 
 ## Resources
-Here's some places for continued learning:
+Here are some places for continued learning:
 - [Eloquent Javascript book](https://eloquentjavascript.net/)
 - [javascript.info](https://javascript.info/)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
