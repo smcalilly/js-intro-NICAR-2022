@@ -3,7 +3,6 @@
 This is an outline for teaching an introduction to JavaScript at NICAR 2022.
 
 
-
 ## Overview
 
 ### What we'll learn
