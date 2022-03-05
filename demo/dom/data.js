@@ -1,3 +1,4 @@
+// These book numbers are fake!
 const georgiaWriters = [
     {
         'name': 'Carson McCullers',

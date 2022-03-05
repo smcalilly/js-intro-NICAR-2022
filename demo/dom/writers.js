@@ -5,7 +5,7 @@ function listWriters() {
 
     georgiaWriters.forEach(writer => {
         let listItem = document.createElement('li')
-        listItem.innerHTML = `<strong>${writer.name}</strong> wrote ${writer.publishedBooks} books. <i>${writer.bestBook}</i> is one of ${writer.name}'s most popular books.`
+        listItem.innerHTML = `<strong>${writer.name}</strong> wrote ${writer.publishedBooks} books. <i>${writer.popularBook}</i> is one of ${writer.name}'s most popular books.`
         list.appendChild(listItem)
     })
 
